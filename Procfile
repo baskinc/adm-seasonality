@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run season_eda_app.py
